@@ -49,3 +49,21 @@ Ce dossier contient tous les documents liés aux diagrammes UML.
 - Exécuter **``` python manage.py runserver ```** dans le répertoire **``` \Attendance-System-Using-Face-Recognitionle ```**  pour exécuter le projet
 - Prendre plaisir !
 # Interface d'utilisateur💻
+
+# Réalisé par :
+
+EL GHAYAM Zakaria
+ZBADI Salim
+ZAHI Assia
+ZMARROU Abdellah
+RABAI Inass
+MATHOURI Youssef
+KHACHANE Chaimae
+MOUJAHID Aziz
+LHOUIFI Youssef
+ousaa aissa
+Rafiki Ahmed
+AADIL BIZZOU
+
+# En cadrer par :
+Amine MRHARI
