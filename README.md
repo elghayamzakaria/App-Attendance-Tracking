@@ -25,6 +25,9 @@ La reconnaissance faciale prend de plus en plus d'importance dans notre sociét�
 • Marquer son heure d'arrivée et d'arrêt en scannant son visage <br>
 • Afficher le rapport de présence de lui-même <br>
 
+# Version de Python
+python 3.8.0
+
 # Détection facial
 Détecteur facial HOG de Dlib.
 
@@ -49,3 +52,21 @@ Ce dossier contient tous les documents liés aux diagrammes UML.
 - Exécuter **``` python manage.py runserver ```** dans le répertoire **``` \Attendance-System-Using-Face-Recognitionle ```**  pour exécuter le projet
 - Prendre plaisir !
 # Interface d'utilisateur💻
+
+# Réalisé par :
+
+- EL GHAYAM Zakaria
+- ZBADI Salim
+- ZAHI Assia
+- ZMARROU Abdellah
+- RABAI Inass
+- MATHOURI Youssef
+- KHACHANE Chaimae
+- MOUJAHID Aziz
+- LHOUIFI Youssef
+- ousaa aissa
+- Rafiki Ahmed
+- AADIL BIZZOU
+
+# Encadré par :
+- Amine MRHARI
