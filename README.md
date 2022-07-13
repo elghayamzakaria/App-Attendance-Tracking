@@ -25,6 +25,9 @@ La reconnaissance faciale prend de plus en plus d'importance dans notre sociét�
 • Marquer son heure d'arrivée et d'arrêt en scannant son visage <br>
 • Afficher le rapport de présence de lui-même <br>
 
+# Version de Python
+python 3.8.0
+
 # Détection facial
 Détecteur facial HOG de Dlib.
 
