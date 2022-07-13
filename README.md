@@ -52,7 +52,7 @@ Ce dossier contient tous les documents liés aux diagrammes UML.
 - Exécuter **``` python manage.py runserver ```** dans le répertoire **``` \Attendance-System-Using-Face-Recognitionle ```**  pour exécuter le projet
 - Prendre plaisir !
 # Interface d'utilisateur💻
-![1](https://user-images.githubusercontent.com/106842102/178625720-517e1162-5dee-428c-a716-07d60b6554ac.jpg)
+![1](https://user-images.githubusercontent.com/106842102/178625720-517e1162-5dee-428c-a716-07d60b6554ac.jpg)<img src="https://user-images.githubusercontent.com/106842102/178625720-517e1162-5dee-428c-a716-07d60b6554ac.jpg" width="45%"></img>
 ![2](https://user-images.githubusercontent.com/106842102/178625740-e0db4407-6093-4aae-8c05-aa225ce73bba.jpg)
 ![3](https://user-images.githubusercontent.com/106842102/178625768-af1bcb1d-296c-4045-ab92-e1e8cb68c99f.jpg)
 ![4](https://user-images.githubusercontent.com/106842102/178625802-9a07135d-f646-443a-a74c-74dfd8a7acdf.jpg)
