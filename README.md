@@ -52,6 +52,16 @@ Ce dossier contient tous les documents liés aux diagrammes UML.
 - Exécuter **``` python manage.py runserver ```** dans le répertoire **``` \Attendance-System-Using-Face-Recognitionle ```**  pour exécuter le projet
 - Prendre plaisir !
 # Interface d'utilisateur💻
+![1](https://user-images.githubusercontent.com/106842102/178625720-517e1162-5dee-428c-a716-07d60b6554ac.jpg)
+![2](https://user-images.githubusercontent.com/106842102/178625740-e0db4407-6093-4aae-8c05-aa225ce73bba.jpg)
+![3](https://user-images.githubusercontent.com/106842102/178625768-af1bcb1d-296c-4045-ab92-e1e8cb68c99f.jpg)
+![4](https://user-images.githubusercontent.com/106842102/178625802-9a07135d-f646-443a-a74c-74dfd8a7acdf.jpg)
+![5](https://user-images.githubusercontent.com/106842102/178625823-5663fada-c8bb-4278-98db-4bd9cc1f5edc.jpg)
+![6](https://user-images.githubusercontent.com/106842102/178626024-383b0b85-1763-41be-9e8b-200a4246c042.jpg)
+![7](https://user-images.githubusercontent.com/106842102/178626052-a3ec2746-3760-4b44-bab3-7aacd3f4cb23.jpg)
+![8](https://user-images.githubusercontent.com/106842102/178626071-71f6bfcc-2f11-442e-bb0c-cda81ebecb1a.jpg)
+![9](https://user-images.githubusercontent.com/106842102/178626091-edb4b6a9-5aa1-4b07-b0aa-b070a94182b5.jpg)
+![10](https://user-images.githubusercontent.com/106842102/178626120-fde22b27-9050-4117-b681-d3b1b4497491.jpg)
 
 # Réalisé par :
 
