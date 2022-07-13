@@ -65,5 +65,5 @@ Ce dossier contient tous les documents liés aux diagrammes UML.
 - Rafiki Ahmed
 - AADIL BIZZOU
 
-# Encadrer par :
+# Encadré par :
 - Amine MRHARI
