@@ -52,18 +52,18 @@ Ce dossier contient tous les documents liés aux diagrammes UML.
 
 # Réalisé par :
 
-EL GHAYAM Zakaria
-ZBADI Salim
-ZAHI Assia
-ZMARROU Abdellah
-RABAI Inass
-MATHOURI Youssef
-KHACHANE Chaimae
-MOUJAHID Aziz
-LHOUIFI Youssef
-ousaa aissa
-Rafiki Ahmed
-AADIL BIZZOU
+- EL GHAYAM Zakaria
+- ZBADI Salim
+- ZAHI Assia
+- ZMARROU Abdellah
+- RABAI Inass
+- MATHOURI Youssef
+- KHACHANE Chaimae
+- MOUJAHID Aziz
+- LHOUIFI Youssef
+- ousaa aissa
+- Rafiki Ahmed
+- AADIL BIZZOU
 
 # En cadrer par :
 Amine MRHARI
