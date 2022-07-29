@@ -46,7 +46,7 @@ Ce dossier contient tous les documents liés aux diagrammes UML.
 # Comment exécuter ?
 - clonez-le sur votre ordinateur
 - créez [un environnement virtuel python](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) séparé ou utilisez celui par défaut déjà installé sur votre machine
-- Télécharger [ce fichier]() de prédicteur de forme à 68 points de Dlib
+- Télécharger [ce fichier](https://drive.google.com/uc?export=download&id=1HzO-rnEqgkZ6tLt48yWhYgHk1_zOIYhf) de prédicteur de forme à 68 points de Dlib
 - placez-le dans le répertoire **``` \Attendance-System-Using-Face-Recognition\face_recognition_data ```**  
 - Exécution **``` pip install -r requirements.txt ```**  à l'intérieur de répertoire **``` \Attendance-System-Using-Face-Recognition ```** pour installer les bibliothèques
 - Exécuter **``` python manage.py runserver ```** dans le répertoire **``` \Attendance-System-Using-Face-Recognitionle ```**  pour exécuter le projet
